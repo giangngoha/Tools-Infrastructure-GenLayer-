@@ -57,4 +57,3 @@ To run this project in your local environment or GitHub Codespaces:
 This project is submitted under the **Tools & Infrastructure** category. Our mission is to provide the necessary tooling for the developer community to adopt Intelligent Contracts safely and efficiently.
 
 Feel free to open an Issue or create a Pull Request for any suggestions or improvements.
-Thank you for your interest!
